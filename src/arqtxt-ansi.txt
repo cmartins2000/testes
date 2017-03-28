@@ -1,0 +1,8 @@
+AULA SOCKET - transferência de Arquivo
+======================================
+teste ISO-ANSI 
+Acentuação
+Aula de Sistemas Distribuídos
+Prof. Claudio Martins
+IFPA - 2016
+TADS
