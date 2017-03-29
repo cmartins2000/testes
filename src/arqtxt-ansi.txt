@@ -1,10 +1,12 @@
 AULA SOCKET - transfer�ncia de Arquivo
 ======================================
 teste ISO-ANSI 
-Acentua��o
+Acentuação
 Aula de Sistemas Distribu�dos
 Prof. Claudio Martins
 IFPA - 2016
 TADS
 
 exemplo de alteração.
+
+Nova linha
