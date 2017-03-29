@@ -11,4 +11,4 @@ as interfaces de outros serviços no sistema distribuído.
 aumentar o desempenho de um serviço – em alguns casos, as réplicas são postas
 
 
-
+Delicia kra
